@@ -43,7 +43,6 @@ function isEmptyInput (){
 
 qrText.value.length > 0 ? generateQRCode() :alert("Enter the Text or URL to generate QRCode");
 
-
 }
 
 function generateQRCode(){
